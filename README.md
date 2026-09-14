@@ -7,3 +7,10 @@ Uma calculadora simples desenvolvida em **Python** para prática de versionament
 ## Funcionalidades
 - Operações básicas: soma, subtração, multiplicação e divisão
 - Interface de linha de comando simples
+
+## Instalação
+Clone o repositório:
+```bash
+git clone git@github.com:SarahLimaSO/CalculadoraGit.git
+cd CalculadoraGit
+
